@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/PurpleFlower.webp");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 85px;
+    color: darkmagenta;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 550px;
+    
+}
+
+h2 {
+    font-size: 50px;
+    color: darkmagenta;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 775px;
+}
+
+h3 {
+    font-size: 40px;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 550px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+    font-size: 23px;
+    background-color: rgb(253, 197, 241);
+}
+
+.navbar-brand {
+    background-color: darkmagenta;
+    overflow: hidden;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-origin: content-box;
+    border: 1px double;
+}
